@@ -6,18 +6,15 @@
         "expandable-chapters-small",
         "katex",
         "sitemap",
-        "scripts"
+        "scripts",
+        "-lunr"
     ],
     "pluginsConfig": {
         "ga": {
             "token": "UA-11309924-27"
         },
-        "meta": {
-            "name": "google-site-verification",
-            "content": "66TqznOaEKbY6hOL9vg_iv28RqZNGQY7xKSuB639n-E"
-        },
         "sitemap": {
-            "hostname": "https://cryptobook.nakov.com/"
+            "hostname": "https://lusuzi.github.io/cryptobook"
         },
         "scripts": {
             "files": [
