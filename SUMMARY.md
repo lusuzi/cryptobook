@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Home](https://lusuzi.github.io)
 * [Welcome](README.md)
 * [Preface](preface.md)
 * [Cryptography - Overview](cryptography-overview.md)
