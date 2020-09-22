@@ -9,6 +9,7 @@ rm -rf *~
 echo "*~" > .gitignore
 echo "_book" >> .gitignore
 git add .gitignore
+git commit -m "Ignore some files"
 
 cp -r _book/* .
 git add .
