@@ -7,7 +7,8 @@
         "katex",
         "sitemap",
         "scripts",
-        "-lunr"
+        "-lunr",
+        "-search"
     ],
     "pluginsConfig": {
         "ga": {
